@@ -1,0 +1,2 @@
+import React from "react";
+export default function Profil(){ return (<div className="min-h-screen flex items-center justify-center p-6 text-center"><div><h2 className="text-3xl font-bold text-teal-700 mb-4">Profil MDIQ</h2><p className="text-gray-700 max-w-2xl mx-auto">Madrasah Diniyah IT & Qur'an (MDIQ) adalah lembaga pendidikan islami yang menggabungkan pengajaran Al-Qur'an, ilmu diniyah, dan teknologi modern untuk semua usia.</p></div></div>);}
